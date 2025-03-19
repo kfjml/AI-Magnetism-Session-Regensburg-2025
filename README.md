@@ -56,9 +56,9 @@ If the JupyterLab instance at the University of Duisburg **is not working at all
 
 | Description | Jupyter Notebook | Google Colab |
 |---|---|---|
-| Training and Prediction Tutorial | `1_training_and_prediction_tutorial.ipynb` |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kfjml/AI-Magnetism-Session-Regensburg-2025/blob/main/Prediction_tutorial.ipynb) | 
-| Pretrained Models Prediction Tutorial | `2_pretrained_models_prediction_tutorial.ipynb` |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kfjml/AI-Magnetism-Session-Regensburg-2025/blob/main/Training_tutorial.ipynb) | 
-| Prediction and Analysis Editor GUI  | `3_prediction_analysis_editor_gui.ipynb`  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kfjml/AI-Magnetism-Session-Regensburg-2025/blob/main/Editor.ipynb) | 
+| Training and Prediction Tutorial | `1_training_and_prediction_tutorial.ipynb` |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kfjml/AI-Magnetism-Session-Regensburg-2025/blob/main/1_training_and_prediction_tutorial.ipynb) | 
+| Pretrained Models Prediction Tutorial | `2_pretrained_models_prediction_tutorial.ipynb` |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kfjml/AI-Magnetism-Session-Regensburg-2025/blob/main/2_pretrained_models_prediction_tutorial.ipynb) | 
+| Prediction and Analysis Editor GUI  | `3_prediction_analysis_editor_gui.ipynb`  |  [![Open In Colab](https://colab.research.google.com/assets/colab-badge.svg)](https://colab.research.google.com/github/kfjml/AI-Magnetism-Session-Regensburg-2025/blob/main/3_prediction_analysis_editor_gui.ipynb) | 
 
 
 ## Manual installation
