@@ -1,0 +1,15 @@
+__pycache__/
+*.pyc
+.ipynb_checkpoints
+extracted_skyrmion_data_table.csv
+segmentation_mask_table.csv
+position_table.csv
+/training/*
+zenodo_dataset/
+datasets/
+tmp/
+result.zip
+
+# pixi environments
+.pixi
+*.egg-info
